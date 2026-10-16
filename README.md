@@ -1,2 +1,0 @@
-# frame-studio
-Website
